@@ -4,14 +4,14 @@ const projects = [
   {
     title: "AI-Powered LMS",
     description:
-      "Learning Management System serving 400+ users with role-based access control, analytics dashboards, and AI chatbot integration using RAG pipelines.",
+      "Developed and deployed an AI-powered Learning Management System serving 400+ users with role-based access control (Admin/Trainer/Learner), analytics dashboards, and secure authentication. Built scalable backend services using Python, REST APIs, JWT, and AWS S3, improving performance by reducing API calls by 60% through caching and debouncing. Implemented reusable, internationalized frontend components using React, TypeScript, and Redux, and integrated an AI chatbot using RAG pipelines and GPT embeddings to enhance multilingual information retrieval.",
     tech: ["React", "TypeScript", "Python", "FastAPI", "MongoDB", "AWS S3"],
     featured: true,
   },
   {
     title: "Resume RAG System",
     description:
-      "Retrieval-Augmented Generation API enabling PDF ingestion, text chunking, vector embeddings, and semantic search with FAISS for context-aware query responses.",
+      "Designed and implemented a Retrieval-Augmented Generation (RAG) API using Python and FastAPI, enabling PDF ingestion, text chunking, vector embeddings, and semantic search with FAISS to deliver accurate, context-aware query responses.",
     tech: ["Python", "FastAPI", "FAISS", "Vector Embeddings"],
     featured: true,
   },
@@ -70,12 +70,8 @@ const Projects = () => {
                         <Folder className="text-primary" size={24} />
                       </div>
                       <div className="flex items-center gap-4">
-                        <button className="text-muted-foreground hover:text-primary transition-colors">
-                          <Github size={20} />
-                        </button>
-                        <button className="text-muted-foreground hover:text-primary transition-colors">
-                          <ExternalLink size={20} />
-                        </button>
+
+                     
                       </div>
                     </div>
 

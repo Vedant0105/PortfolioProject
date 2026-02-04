@@ -51,7 +51,7 @@ const Contact = () => {
                 <MapPin className="text-primary" size={24} />
               </div>
               <h3 className="font-mono font-semibold text-foreground mb-2">Location</h3>
-              <p className="text-sm text-muted-foreground">Nagpur, India</p>
+              <p className="text-sm text-muted-foreground">Pune, India</p>
             </div>
           </div>
 
@@ -74,15 +74,6 @@ const Contact = () => {
               aria-label="LinkedIn"
             >
               <Linkedin size={24} />
-            </a>
-            <a
-              href="https://github.com/vedantmundel"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="p-3 bg-secondary rounded-full text-muted-foreground hover:text-primary hover:bg-secondary/80 transition-all duration-200"
-              aria-label="GitHub"
-            >
-              <Github size={24} />
             </a>
           </div>
         </div>

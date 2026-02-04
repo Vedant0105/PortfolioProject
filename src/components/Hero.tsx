@@ -16,7 +16,7 @@ const Hero = () => {
           <div className="animate-slide-up opacity-0">
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-secondary/50 border border-border rounded-full mb-8">
               <span className="w-2 h-2 bg-terminal-green rounded-full animate-pulse" />
-              <span className="font-mono text-sm text-muted-foreground">Available for opportunities</span>
+              <span className="font-mono text-sm text-muted-foreground">Immediate Joiner</span>
             </div>
           </div>
 
@@ -66,22 +66,6 @@ const Hero = () => {
               aria-label="LinkedIn"
             >
               <Linkedin size={24} />
-            </a>
-            <a
-              href="https://github.com/vedantmundel"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-muted-foreground hover:text-primary transition-colors duration-200"
-              aria-label="GitHub"
-            >
-              <Github size={24} />
-            </a>
-            <a
-              href="mailto:mundelvedant152@gmail.com"
-              className="text-muted-foreground hover:text-primary transition-colors duration-200"
-              aria-label="Email"
-            >
-              <Mail size={24} />
             </a>
           </div>
         </div>

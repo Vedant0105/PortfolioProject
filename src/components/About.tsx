@@ -17,7 +17,7 @@ const About = () => {
             <div className="space-y-6">
               <p className="text-muted-foreground leading-relaxed">
                 I'm a Full Stack Developer based in{" "}
-                <span className="text-primary">Nagpur, India</span>, with a passion for building 
+                <span className="text-primary">Pune, India</span>, with a passion for building 
                 applications that are not only functional but also scalable and maintainable.
               </p>
               <p className="text-muted-foreground leading-relaxed">
