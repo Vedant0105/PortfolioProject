@@ -8,9 +8,6 @@ const Footer = () => {
             Designed & Built by Vedant Mundel
             <span className="text-primary">/&gt;</span>
           </div>
-          <div className="font-mono text-sm text-muted-foreground">
-            © {new Date().getFullYear()} All rights reserved.
-          </div>
         </div>
       </div>
     </footer>
