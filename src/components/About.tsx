@@ -21,7 +21,7 @@ const About = () => {
                 applications that are not only functional but also scalable and maintainable.
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                With over <span className="text-primary">1.8 years</span> of professional experience, 
+                With over <span className="text-primary">2 years</span> of professional experience, 
                 I've had the privilege of working on AI-powered Learning Management Systems, 
                 e-commerce platforms, and innovative RAG-based solutions.
               </p>
