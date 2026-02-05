@@ -18,7 +18,7 @@ const experiences = [
     title: "Software Specialist Trainee",
     company: "Delaplex Ltd.",
     location: "Nagpur, India",
-    period: "May 2024 – Oct 2024",
+    period: "Jan 2024 – Oct 2024",
     highlights: [
       "Built full-stack e-commerce application using Flask, React.js, and MongoDB",
       "Implemented image-based product recommendations using Google Vision API",
