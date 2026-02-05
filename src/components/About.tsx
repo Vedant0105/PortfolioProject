@@ -73,7 +73,7 @@ const About = () => {
   "name": "Vedant Mundel",
   "role": "Full Stack Developer",
   "location": "Nagpur, India",
-  "experience": "1.8+ years",
+  "experience": "2 years",
   "focus": [
     "Web Applications",
     "AI/ML Integration",
