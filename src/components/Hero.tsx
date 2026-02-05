@@ -34,7 +34,7 @@ const Hero = () => {
             </p>
             <p className="text-lg text-muted-foreground max-w-2xl mb-8">
               Building scalable web applications and AI-powered solutions with 
-              <span className="text-primary"> 1.8+ years</span> of experience. 
+              <span className="text-primary"> 2 years</span> of experience. 
               Passionate about clean code architecture and performance optimization.
             </p>
           </div>
